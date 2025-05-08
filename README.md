@@ -5,9 +5,12 @@
 * The Main-Util libraty that offers multiple math functions (a 
 Java-based source code)
 * Unit Testin source code with JUnit framwork
+* GitHub Action to demonstrate the Continuous Intergation (CI) technique
+* Regression Test
 * ...
 
 ### Screenshots
 ![DDT & TDD with JUnit](https://github.com/Choperzil/math-util/blob/main/images/DDT%20with%20JUnit.png)
+
 
 #### © 2025 Choperzil
